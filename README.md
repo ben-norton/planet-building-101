@@ -1,6 +1,5 @@
 # Planet Building 101 Resources
-Resources associated with 'Planet Building 101'
-Original presentation by Ben Norton, 1/25/2021 for NCMNS Astronomy Days
+Resources associated with 'Planet Building 101' presentation by Ben Norton, 1/25/2021 for NCMNS Astronomy Days
 
 ## Visualizations and Interactives
 - Planet Maker: http://planetmaker.wthr.us/
@@ -23,3 +22,12 @@ Original presentation by Ben Norton, 1/25/2021 for NCMNS Astronomy Days
 
 ## Resources
 - Virtual Terrain Project: http://vterrain.org/
+
+
+Ben Norton
+Head of Technology
+Collections Data Curator
+Collections Manager of Meteorites
+https://naturalsciences.org/staff/ben-norton
+
+
