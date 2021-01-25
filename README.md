@@ -44,17 +44,17 @@ Mitaka is software for visualizing the known Universe with up-to-date observatio
 
 ## Libraries/Frameworks
 jsOrrery
-  Home: https://github.com/mgvez/jsorrery
-  Demo: https://mgvez.github.io/jsorrery/
-  Article: https://medium.com/@m_vezina/building-jsorrery-a-javascript-webgl-solar-system-7330e71d64d5
+  Home: https://github.com/mgvez/jsorrery  
+  Demo: https://mgvez.github.io/jsorrery/  
+  Article: https://medium.com/@m_vezina/building-jsorrery-a-javascript-webgl-solar-system-7330e71d64d5  
 
 ## Resources
 Planetary Mapping
-- Virtual Terrain Project: http://vterrain.org/
-Planetary Data
-- Planetary Data Sheets: https://nssdc.gsfc.nasa.gov/planetary/planetfact.html
-- Planetary Data System (PDS): https://pds.nasa.gov/
-- Astrogeology: https://www.usgs.gov/centers/astrogeology-science-center
+- Virtual Terrain Project: http://vterrain.org/  
+Planetary Data  
+- Planetary Data Sheets: https://nssdc.gsfc.nasa.gov/planetary/planetfact.html  
+- Planetary Data System (PDS): https://pds.nasa.gov/  
+- Astrogeology: https://www.usgs.gov/centers/astrogeology-science-center  
 
 
 
