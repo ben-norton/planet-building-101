@@ -57,10 +57,10 @@ jsOrrery
   
   
 
-Ben Norton
-Head of Technology
-Collections Data Curator
-Collections Manager of Meteorites
-https://naturalsciences.org/staff/ben-norton
+Ben Norton  
+Head of Technology  
+Collections Data Curator  
+Collections Manager of Meteorites  
+https://naturalsciences.org/staff/ben-norton  
 
 
