@@ -18,7 +18,6 @@ Resources associated with 'Planet Building 101' presentation by Ben Norton, 1/25
 
 - Google Sky: https://www.google.com/sky/
 
-
 - Stellarium: http://www.stellarium.org/  
 Stellarium renders 3D photo-realistic skies in real time with OpenGL. It displays stars, constellations, planets, nebulae and others things like ground, landscape, atmosphere, etc.
 
@@ -49,14 +48,14 @@ jsOrrery
   Article: https://medium.com/@m_vezina/building-jsorrery-a-javascript-webgl-solar-system-7330e71d64d5  
 
 ## Resources
-Planetary Mapping
+### Planetary Mapping
 - Virtual Terrain Project: http://vterrain.org/  
-Planetary Data  
+### Planetary Data  
 - Planetary Data Sheets: https://nssdc.gsfc.nasa.gov/planetary/planetfact.html  
 - Planetary Data System (PDS): https://pds.nasa.gov/  
 - Astrogeology: https://www.usgs.gov/centers/astrogeology-science-center  
-
-
+  
+  
 
 Ben Norton
 Head of Technology
